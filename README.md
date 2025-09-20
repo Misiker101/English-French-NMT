@@ -6,7 +6,7 @@ This project implements an end-to-end deep learning pipeline for translating Eng
 
 The model is trained on a dataset of English-French sentence pairs.
 * **Description:** The dataset contains numerous pairs of sentences, one in English and its corresponding translation in French.
-* **Source:** The dataset is expected to be a CSV file named `eng_-french.csv`. You can download it from here or the following link: https://www.kaggle.com/datasets/devicharith/language-translationenglishfrench Please place this file in a folder named `datasets` in the root of the project directory.
+* **Source:** The dataset is expected to be a CSV file named `eng_-french.csv`. You can download it from here or the following link: https://www.kaggle.com/datasets/devicharith/language-translation-englishfrench Please place this file in a folder named `datasets` in the root of the project directory.
 
 ## Model Architecture
 
